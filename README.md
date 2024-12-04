@@ -1,6 +1,6 @@
 # Plantilla de tareas
 
-## Información general
+## Información general_
 
 - Esta es una plantilla para las tareas del curso Fundamentos de Programación en Python. Puedes usar este repo para practicar cómo clonar un repo y hacer un pull request.
 
