@@ -3,7 +3,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vpe1aP0K)
 # Plantilla de tareas
 
-## Información general_
+## Información general%
 
 - Esta es una plantilla para las tareas del curso Fundamentos de Programación en Python. Puedes usar este repo para practicar cómo clonar un repo y hacer un pull request.
 
